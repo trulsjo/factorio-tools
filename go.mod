@@ -1,4 +1,4 @@
-module github.com/KirkMcDonald/factorio-tools
+module github.com/trulsjo/factorio-tools
 
 go 1.15
 
