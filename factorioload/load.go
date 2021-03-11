@@ -16,7 +16,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/KirkMcDonald/golua/lua"
+	"github.com/trulsjo/golua/lua"
 	"github.com/gobuffalo/packr"
 	"github.com/mitchellh/go-homedir"
 )

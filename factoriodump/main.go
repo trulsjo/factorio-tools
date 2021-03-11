@@ -13,7 +13,7 @@ import (
 
 	"github.com/gobuffalo/packr"
 
-	"github.com/KirkMcDonald/factorio-tools/factorioload"
+	"github.com/trulsjo/factorio-tools/factorioload"
 )
 
 var calcDir = flag.String("calcdir", ".", "Calculator development directory.")
